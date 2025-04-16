@@ -11,9 +11,7 @@ the activity* and hit the link named **update**.
 
 If you want to practice this activity, just follow this link: (TODO: update)
 
-## Full-Name-Of-Student
-
-**TODO - Please put your name in this README**
+## Anderson Otaviano Meireles Junior
 
 ## Problem Description
 
